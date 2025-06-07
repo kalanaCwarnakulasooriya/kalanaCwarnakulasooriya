@@ -74,6 +74,9 @@
     <a href="https://web.facebook.com/profile.php?id=100086889394648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kalana Warnakulasooriya" height="50" width="50" /></a>
     <a href="https://www.instagram.com/_kalana_w_/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="_kalana_w_" height="50" width="50" /></a>
     <a href="https://x.com/Kalana_W_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="Kalana_W_" height="50" width="50" /></a>
+    <a href="https://app.slack.com/client/T024UA9F6VC/C024Y1HE0S1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="kalana-warnakulasooriya-9570b2215" height="50" width="50" /></a>
+    <a href="https://www.pinterest.com/kalana_W_/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Pinterest.svg" alt="kalana-warnakulasooriya-9570b2215" height="60" width="60" /></a>
+    <a href="https://www.reddit.com/user/Ornery_Childhood6861/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Reddit/Reddit-Logomark-Color-Logo.wine.svg" alt="Ornery_Childhood6861" height="85" width="85" /></a>
 </p>
 
 ---

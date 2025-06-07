@@ -57,3 +57,14 @@
         </td>
     </tr>
 </table>
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://www.youtube.com/channel/UCoK-KPe4607cwxLRxd1hoWQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="KalanaCWarnakulasooriya" height="50" width="50" /></a>
+    <a href="https://www.linkedin.com/in/kalana-warnakulasooriya-9570b2215/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kalana-warnakulasooriya-9570b2215" height="50" width="50" /></a>
+    <a href="https://stackoverflow.com/users/26693447/kalana-warnakulasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kalana-warnakulasooriya" height="50" width="50" /></a>
+    <a href="https://web.facebook.com/profile.php?id=100086889394648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kalana Warnakulasooriya" height="50" width="50" /></a>
+    <a href="https://www.instagram.com/_kalana_w_/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="_kalana_w_" height="50" width="50" /></a>
+</p>

@@ -95,3 +95,21 @@
   <a href="https://www.buymeacoffee.com/_kalana_w_"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a>
 </p>
 
+---
+
+<div align="center">
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" align="center"> <br>
+
+## For More Information, Please Check Out or Contact Me Via
+
+</div>
+
+<div>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+  :heart_eyes: 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝<br/>
+Have a nice day! :wink: <br/>
+  &copy; Kalana Warnakulasooriya
+</div>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+</div>

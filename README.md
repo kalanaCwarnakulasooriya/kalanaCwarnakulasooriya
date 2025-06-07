@@ -16,7 +16,9 @@
   </div>
 
 </br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=27F7EE&width=535&lines=Whitespace+matters%2C+don't+trip!;NullPointerException%3A+Java's+best+friend.;Imports%3A+the+ultimate+friendship.;Compile+errors%3A+Java's+surprise+party." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=27F7EE&width=535&lines=Whitespace+matters%2C+don't+trip!;NullPointerException%3A+Java's+best+friend.;Imports%3A+the+ultimate+friendship.;Compile+errors%3A+Java's+surprise+party." alt="Typing SVG" />
+</a>
 
 <table align="center">
     <tr border="none">
@@ -50,10 +52,14 @@
         <td width="50%" align="center">
             <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kalanaCwarnakulasooriya&show_icons=true&theme=radical" />
             <br>
+            <br>
             <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kalanaCwarnakulasooriya&theme=radical" /> 
         </td>
         <td width="50%" align="center">
             <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kalanaCwarnakulasooriya&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+            <br>
+            <br>
+            <img align="center" src="https://github-contributor-stats.vercel.app/api?username=kalanaCwarnakulasooriya&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
         </td>
     </tr>
 </table>
@@ -67,6 +73,7 @@
     <a href="https://stackoverflow.com/users/26693447/kalana-warnakulasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kalana-warnakulasooriya" height="50" width="50" /></a>
     <a href="https://web.facebook.com/profile.php?id=100086889394648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kalana Warnakulasooriya" height="50" width="50" /></a>
     <a href="https://www.instagram.com/_kalana_w_/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="_kalana_w_" height="50" width="50" /></a>
+    <a href="https://x.com/Kalana_W_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="Kalana_W_" height="50" width="50" /></a>
 </p>
 
 ---

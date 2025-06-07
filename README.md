@@ -17,3 +17,29 @@
 
 </br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=27F7EE&width=535&lines=Whitespace+matters%2C+don't+trip!;NullPointerException%3A+Java's+best+friend.;Imports%3A+the+ultimate+friendship.;Compile+errors%3A+Java's+surprise+party." alt="Typing SVG" /></a>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+- 🔭 I’m currently working on **GDSE - Graduate Diploma in Software Engineering**
+
+- 🧑‍🎓 I’m an Undergraduate at **IJSE - Institute of Software Engineering**
+
+- 🌱 I’m currently learning **Java**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **kalana.warnakulasooriya@gmail.com**
+
+- ⚡ Fun fact **Call me as KW**
+
+  </td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>

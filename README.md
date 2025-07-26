@@ -131,4 +131,14 @@ Have a nice day! :wink: <br/>
   &copy; Kalana Warnakulasooriya
 </div>
 
- 
+ <p align="center">
+  <img  width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
+   
+<p align="center">
+  <img  width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
+
+<p align="center">
+  <i>Let’s collaborate to develop innovative and impactful software solutions together!</i>
+</p>

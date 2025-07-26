@@ -68,15 +68,26 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.youtube.com/channel/UCoK-KPe4607cwxLRxd1hoWQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="KalanaCWarnakulasooriya" height="50" width="50" /></a>
-    <a href="https://www.linkedin.com/in/kalana-warnakulasooriya-9570b2215/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kalana-warnakulasooriya-9570b2215" height="50" width="50" /></a>
-    <a href="https://stackoverflow.com/users/26693447/kalana-warnakulasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kalana-warnakulasooriya" height="50" width="50" /></a>
-    <a href="https://web.facebook.com/profile.php?id=100086889394648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kalana Warnakulasooriya" height="50" width="50" /></a>
-    <a href="https://www.instagram.com/_kalana_w_/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="_kalana_w_" height="50" width="50" /></a>
-    <a href="https://x.com/Kalana_W_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="Kalana_W_" height="50" width="50" /></a>
-    <a href="https://app.slack.com/client/T024UA9F6VC/C024Y1HE0S1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="kalana-warnakulasooriya-9570b2215" height="50" width="50" /></a>
-    <a href="https://www.pinterest.com/kalana_W_/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Pinterest.svg" alt="kalana-warnakulasooriya-9570b2215" height="60" width="60" /></a>
-    <a href="https://www.reddit.com/user/Ornery_Childhood6861/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Reddit/Reddit-Logomark-Color-Logo.wine.svg" alt="Ornery_Childhood6861" height="85" width="85" /></a>
+    <a href="https://discord.com/invite/kalana_warnakulasooriya" target="blank"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=5865F2"></a>
+    <a href="https://linkedin.com/in/kalana-warnakulasooriya-9570b2215" target="blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
+    <a href="https://stackoverflow.com/users/26693447" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-black?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16"></a>
+    <a href="https://www.youtube.com/channel/UCoK-KPe4607cwxLRxd1hoWQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=FF0000"></a>
+    <a href="https://www.facebook.com/profile.php?id=100086889394648" target="_blank"><img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=1877F2"></a>
+    <a href="https://www.instagram.com/_kalana_w_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
+    <a href="https://www.pinterest.com/kalana_W_/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-black?style=for-the-badge&logo=pinterest&logoColor=BD081C"></a>
+    <a href="https://www.reddit.com/user/Ornery_Childhood6861/" target="_blank"><img src="https://img.shields.io/badge/Reddit-black?style=for-the-badge&logo=reddit&logoColor=FF4500"></a>
+    <a href="https://x.com/Kalana_W_" target="_blank"><img src="https://img.shields.io/badge/Follow @Kalana_W_-black?style=for-the-badge&logo=x&logoColor=FFFFFF"></a>
+    <a href="https://slack.com/client/T024UA9F6VC/C024Y1HE0S1" target="_blank"><img src="https://img.shields.io/badge/Slack-black?style=for-the-badge&logo=slack&logoColor=4A154B"></a>
+    <a href="mailto:888kalana.warnakulasooriya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail">
+<!--     <a href="https://www.youtube.com/channel/UCoK-KPe4607cwxLRxd1hoWQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="KalanaCWarnakulasooriya" height="50" width="50" /></a> -->
+<!--     <a href="https://www.linkedin.com/in/kalana-warnakulasooriya-9570b2215/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kalana-warnakulasooriya-9570b2215" height="50" width="50" /></a> -->
+<!--     <a href="https://stackoverflow.com/users/26693447/kalana-warnakulasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kalana-warnakulasooriya" height="50" width="50" /></a> -->
+<!--     <a href="https://web.facebook.com/profile.php?id=100086889394648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kalana Warnakulasooriya" height="50" width="50" /></a> -->
+<!--     <a href="https://www.instagram.com/_kalana_w_/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="_kalana_w_" height="50" width="50" /></a> -->
+<!--     <a href="https://x.com/Kalana_W_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="Kalana_W_" height="50" width="50" /></a> -->
+<!--     <a href="https://app.slack.com/client/T024UA9F6VC/C024Y1HE0S1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="kalana-warnakulasooriya-9570b2215" height="50" width="50" /></a> -->
+<!--     <a href="https://www.pinterest.com/kalana_W_/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Pinterest.svg" alt="kalana-warnakulasooriya-9570b2215" height="60" width="60" /></a> -->
+<!--     <a href="https://www.reddit.com/user/Ornery_Childhood6861/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Reddit/Reddit-Logomark-Color-Logo.wine.svg" alt="Ornery_Childhood6861" height="85" width="85" /></a> -->
 </p>
 
 ---
@@ -114,12 +125,10 @@
 
 </div>
 
-<div>
--------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
   :heart_eyes: 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝<br/>
 Have a nice day! :wink: <br/>
   &copy; Kalana Warnakulasooriya
 </div>
--------------------------------------------------------------------------------------------------------------------------------------------------------
-</div>
+
+ 

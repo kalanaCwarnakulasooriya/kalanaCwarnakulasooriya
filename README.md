@@ -28,13 +28,15 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **IJSE - Institute of Software Engineering**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** and backend development
 
 - 💬 Ask me about **Java**
 
+- 🚀 My Portfolio https://my-official-portfolio.web.app/
+
 - 📫 How to reach me **kalana.warnakulasooriya@gmail.com**
 
-- ⚡ Fun fact **Call me as KW**
+- ⚡ Fun fact **Call me as Kale**
 
   </td>
         <td width="50%" align="center">
